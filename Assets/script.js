@@ -86,7 +86,7 @@ let password = [];
 // Start generating random password using selected characters
   for (let i = 0; i < enter; i++) {
     let chosenCharacters = choices[Math.floor(Math.random() * choices.length)];
-    // or finalPassword += possibleCharacters[rng];
+    // push password and chosenCharacters
     password.push(chosenCharacters);
   }
   
@@ -113,5 +113,5 @@ function myFunction() {
     console.log("navigator clipboard not available")
     return
   }
-  alert("You have copied the generated password: " + copyText.value);
+  alert("You have copied your generated password");
 }
