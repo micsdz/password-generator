@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/micsdz/password-generator">
-    <img src="Assets/Images/kissclipart-cyber-security-lock-png-clipart-computer-security-e5885498dc62118e.jpeg" alt="Logo" width="80" height="80">
+    <img src="Assets/images/kissclipart-cyber-security-lock-png-clipart-computer-security-e5885498dc62118e.jpeg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Password Generator</h3>
