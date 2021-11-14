@@ -18,7 +18,7 @@
   <p align="center">
     this will help client randomly generate a password that needs certain criteria
     <br />
-    <a href="https://github.com/micsdz/Micah-Portfolio-Website"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/micsdz/password-generator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://micsdz.github.io/password-generator/">View Demo</a>
